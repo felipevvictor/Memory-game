@@ -76,7 +76,7 @@ h2{
 
 .item::after{
     
-    content: "";git commit -m "first commit"
+    content: "";
     position: absolute;
     inset: 0;
     background: #404040;
